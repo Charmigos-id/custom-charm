@@ -72,6 +72,13 @@ const charmsData =
     // RABBIT
     { "sku": "resin-pink-rabbit", "category": "Resin", "name": "Resin-Pink Rabbit", "url": "Gambar/Resin/Resin-pink rabbit.png" },
     { "sku": "resin-white-rabbit", "category": "Resin", "name": "Resin-White Rabbit", "url": "Gambar/Resin/Resin-white rabbit.png" },
+   { "sku": "resin-bebek", "category": "Resin", "name": "Resin-bebek", "url": "Gambar/Resin/Resin-bebek.png" }, 
+   { "sku": "resin-cloud", "category": "Resin", "name": "Resin-Cloud", "url": "Gambar/Resin/Resin-Cloud.png" },
+   { "sku": "resin-kaonashi", "category": "Resin", "name": "Resin-kaonashi", "url": "Gambar/Resin/Resin-kaonashi.png" }, 
+   { "sku": "resin-paw-blackpink", "category": "Resin", "name": "Resin-paw blackpink", "url": "Gambar/Resin/Resin-paw blackpink.png" }, 
+   { "sku": "resin-paw-pink-transparant", "category": "Resin", "name": "Resin-paw pink-transparant", "url": "Gambar/Resin/Resin-paw pink-transparant.png" }, 
+   { "sku": "resin-paw-white-transparan", "category": "Resin", "name": "Resin-paw white transparan", "url": "Gambar/Resin/Resin-paw white transparan.png" }, 
+   { "sku": "resin-penguin", "category": "Resin", "name": "Resin-penguin", "url": "Gambar/Resin/Resin-penguin.png" },
 
     { "sku": "resin-blackrose", "category": "Resin", "name": "Resin-Blackrose", "url": "Gambar/Resin/Resin-blackrose.png" },
     { "sku": "resin-blue-rose", "category": "Resin", "name": "Resin-Blue Rose", "url": "Gambar/Resin/Resin-blue rose.png" },
