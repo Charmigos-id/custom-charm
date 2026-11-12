@@ -222,7 +222,26 @@ const charmsData =
     { "sku": "coatresin-spiderman", "category": "Coat Resin", "name": "Coat Resin - Spiderman", "url": "Gambar/Coat Resin/COAT Resin - Spiderman.png" },
     { "sku": "coatresin-bouqet-sunflower", "category": "Coat Resin", "name": "Coat Resin - Sunflower Bouqet", "url": "Gambar/Coat Resin/COAT Resin - Sunflower Bouqet.png" },
     { "sku": "coatresin-tic-tac-toe", "category": "Coat Resin", "name": "Coat Resin - Tic Tac Toe", "url": "Gambar/Coat Resin/COAT Resin - Tic Tac Toe.png" },
-    { "sku": "coatresin-you-matter", "category": "Coat Resin", "name": "Coat Resin - You Matter", "url": "Gambar/Coat Resin/COAT Resin - You Matter.png" }
+    { "sku": "coatresin-you-matter", "category": "Coat Resin", "name": "Coat Resin - You Matter", "url": "Gambar/Coat Resin/COAT Resin - You Matter.png" },
+    { "sku": "coatresin-swag-putih", "category": "Coat Resin", "name": "Coat Resin - #SWAG Putih", "url": "Gambar/Coat Resin/COAT Resin-#SWAG Putih.png" },
+    { "sku": "coatresin-be-weird", "category": "Coat Resin", "name": "Coat Resin - Be Weird", "url": "Gambar/Coat Resin/COAT Resin-Be Weird.png" },
+    { "sku": "coatresin-bling-star", "category": "Coat Resin", "name": "Coat Resin - Bling Star", "url": "Gambar/Coat Resin/COAT Resin-Bling Star.png" },
+    { "sku": "coatresin-blue-lily", "category": "Coat Resin", "name": "Coat Resin - Blue Lily", "url": "Gambar/Coat Resin/COAT Resin-Blue Lily.png" },
+    { "sku": "coatresin-green-music-note", "category": "Coat Resin", "name": "Coat Resin - Green Music Note", "url": "Gambar/Coat Resin/COAT Resin-Green Music Note.png" },
+    { "sku": "coatresin-head-barrbie", "category": "Coat Resin", "name": "Coat Resin - Head Barrbie", "url": "Gambar/Coat Resin/COAT Resin-Head Barrbie.png" },
+    { "sku": "coatresin-lantern-tangled", "category": "Coat Resin", "name": "Coat Resin - Lantern Tangled", "url": "Gambar/Coat Resin/COAT Resin-Lantern Tangled.png" },
+    { "sku": "coatresin-matcha-lily", "category": "Coat Resin", "name": "Coat Resin - Matcha Lily", "url": "Gambar/Coat Resin/COAT Resin-Matcha Lily.png" },
+    { "sku": "coatresin-pink-chess", "category": "Coat Resin", "name": "Coat Resin - Pink Chess", "url": "Gambar/Coat Resin/COAT Resin-Pink Chess.png" },
+    { "sku": "coatresin-purple-glitter", "category": "Coat Resin", "name": "Coat Resin - Purple Glitter", "url": "Gambar/Coat Resin/COAT Resin-Purple Glitter.png" },
+    { "sku": "coatresin-star-retro-black", "category": "Coat Resin", "name": "Coat Resin - Star Retro Black", "url": "Gambar/Coat Resin/COAT Resin-Star Retro Black.png" },
+    { "sku": "coatresin-success-failures", "category": "Coat Resin", "name": "Coat Resin - Success, Failures", "url": "Gambar/Coat Resin/COAT Resin-Success, Failures.png" },
+    { "sku": "coatresin-sun-tangled", "category": "Coat Resin", "name": "Coat Resin - Sun Tangled", "url": "Gambar/Coat Resin/COAT Resin-Sun Tangled.png" },
+    { "sku": "coatresin-super-girl", "category": "Coat Resin", "name": "Coat Resin - Super Girl", "url": "Gambar/Coat Resin/COAT Resin-Super Girl.png" },
+    { "sku": "coatresin-superrman", "category": "Coat Resin", "name": "Coat Resin - Superrman", "url": "Gambar/Coat Resin/COAT Resin-Superrman.png" },
+    { "sku": "coatresin-turntable-blue", "category": "Coat Resin", "name": "Coat Resin - Turntable Blue", "url": "Gambar/Coat Resin/COAT Resin-Turntable Blue.png" },
+    { "sku": "coatresin-ur-f-star", "category": "Coat Resin", "name": "Coat Resin - Ur F_Star", "url": "Gambar/Coat Resin/COAT Resin-Ur F_Star.png" },
+    { "sku": "coatresin-vinyl-record", "category": "Coat Resin", "name": "Coat Resin - vinyl record", "url": "Gambar/Coat Resin/COAT Resin-vinyl record.png" },
+    { "sku": "coatresin-yspsfagsil", "category": "Coat Resin", "name": "Coat Resin - YSPSFAGSIL", "url": "Gambar/Coat Resin/COAT Resin-YSPSFAGSIL.png" }
 ]
 
 
